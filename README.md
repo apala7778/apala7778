@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Apala Gupta
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning FrontEnd Development
-- 💞️ I’m looking to collaborate on Reactjs Projects
+- 👀 I’m interested in MERN Full Stack Development
+- 🌱 I’m currently learning BackEnd Development
+- 💞️ I’m looking to collaborate on Reactjs & Nodejs Projects
 - 📫 Reach me <a href="https://twitter.com/apalagupta4"> on Twitter </a>
 
 <!---
@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## My Tech stacks are
- HTML5  • CSS3  • JAVASCRIPT  • REACTJS 
+ HTML5  • CSS3  • JAVASCRIPT  • REACTJS • TAILWIND CSS • NODEJS
+ 
