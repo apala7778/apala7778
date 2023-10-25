@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Apala Gupta
+- 👋 Hi, I’m Apala Gupta.
 - 👀 I’m interested in MERN Full Stack Development
-- 🌱 I’m currently learning BackEnd Development
 - 💞️ I’m looking to collaborate on Reactjs & Nodejs Projects
 - 📫 Reach me <a href="https://twitter.com/apalagupta4"> on Twitter </a> or connect with me on <a href="https://www.linkedin.com/in/apala-g-33765b226" > LinkedIn </a>
 - checkout my <a href="https://apalagupta.vercel.app/" > Portfolio </a>
